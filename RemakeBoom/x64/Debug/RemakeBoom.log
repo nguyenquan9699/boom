@@ -1,0 +1,3 @@
+﻿  game.cpp
+c:\users\nguyenminhquan\desktop\boom-new\remakeboom\remakeboom\game.cpp(526): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RemakeBoom.vcxproj -> C:\Users\NguyenMinhQuan\Desktop\BOOM-new\RemakeBoom\x64\Debug\RemakeBoom.exe

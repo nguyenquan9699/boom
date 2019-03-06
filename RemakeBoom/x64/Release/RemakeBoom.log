@@ -1,0 +1,40 @@
+﻿  bmp.cpp
+d:\hoc\code\boom\remakeboom\bmp.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  boom.cpp
+d:\hoc\code\boom\remakeboom\boom.cpp(1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+d:\hoc\code\boom\remakeboom\boom.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(145): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\boom.cpp(173): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  console.cpp
+  game.cpp
+d:\hoc\code\boom\remakeboom\game.cpp(523): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  item.cpp
+d:\hoc\code\boom\remakeboom\item.cpp(1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  main.cpp
+d:\hoc\code\boom\remakeboom\header.h(2): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+d:\hoc\code\boom\remakeboom\map.h(2): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+d:\hoc\code\boom\remakeboom\game.h(2): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  map.cpp
+d:\hoc\code\boom\remakeboom\map.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+d:\hoc\code\boom\remakeboom\player.cpp(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(196): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(250): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\hoc\code\boom\remakeboom\player.cpp(297): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 83 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RemakeBoom.vcxproj -> D:\HOC\code\Boom\x64\Release\RemakeBoom.exe
